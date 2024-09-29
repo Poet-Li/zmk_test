@@ -10,8 +10,8 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
-	model = "poet_li";
-	compatible = "poet,li";
+	model = "poetli_test";
+	compatible = "poetli,test";
 
 	chosen {
 		zephyr,code-partition = &code_partition;
