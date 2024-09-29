@@ -11,7 +11,7 @@
 
 / {
 	model = "poet_li";
-	compatible = "poet_li,poet_li";
+	compatible = "poet,li";
 
 	chosen {
 		zephyr,code-partition = &code_partition;
