@@ -1,5 +1,5 @@
-identifier: le_chiff_ble
-name: le_chiff_ble
+identifier: poetli_test
+name: poetli_test
 type: mcu
 arch: arm
 toolchain:

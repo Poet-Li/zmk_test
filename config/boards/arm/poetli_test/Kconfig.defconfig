@@ -1,13 +1,13 @@
 # Copyright (c) 2021 @MangoIV
 # SPDX-License-Identifier: MIT
 
-if BOARD_LE_CHIFF_BLE
+if BOARD_POETLI_TEST
 
 config BOARD
-	default "le_chiff_ble"
+	default "poetli_test"
 
 config ZMK_KEYBOARD_NAME
-	default "le_chiff_ble"
+	default "poetli_test"
 
 if USB
 
@@ -31,4 +31,4 @@ config ZMK_USB
 config ZMK_BATTERY_VOLTAGE_DIVIDER
 	default y
 
-endif # BOARD_LE_CHIFF_BLE
+endif # BOARD_POETLI_TEST
