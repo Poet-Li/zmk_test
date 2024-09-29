@@ -1,6 +1,6 @@
-# Le_Chiff_BLE
+# poetli_test
 
-## Building Le_Chiff_BLE ZMK firmware
+## Building poetli_test ZMK firmware
 ```
-west build -p -b le_chiff_ble
+west build -p -b poetli_test
 ```
