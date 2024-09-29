@@ -27,8 +27,8 @@ jobs:
         #  shield: (optional) the shield to build. Omit for a standalone board.
         #  cmake-args: (optional) extra arguments to pass to CMake as a string.
         include:
-          - board: le_chiff_ble
-          - board: le_chiff_ble
+          - board: poetli_test
+          - board: poetli_test
             shield: settings_reset
     steps:
       - name: Checkout
